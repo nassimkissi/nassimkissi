@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nassim Kissi</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m currently learning **TDD, Angular, Svelte, FreeMarker**
+- 🌱 I’m currently learning **TDD, Angular, Svelte, FreeMarker, nestJS**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript ES6, Web performance & Accessibility**
 
